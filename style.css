@@ -1,0 +1,13 @@
+div{
+    color: darkgreen;
+    text-align: left;
+ }
+ h1 {
+    border-style: solid;
+    border-color:rgb(1, 92, 134);
+    border-width: 5px;
+ }
+img {
+    width:200;
+    height: 200px;
+ }
