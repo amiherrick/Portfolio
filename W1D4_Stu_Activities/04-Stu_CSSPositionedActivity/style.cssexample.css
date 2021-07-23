@@ -1,0 +1,6 @@
+.box {
+    position:fixed;
+    background-color:lightgrey;
+    border-style: solid;
+    display: inline-block;
+}
